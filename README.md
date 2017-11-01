@@ -7,5 +7,6 @@
 # 文档目录
 
 - 1、[认识在vue.js中是怎么定义模块规范的](https://github.com/woai30231/vue-source-code-study-note/blob/master/article/1.md)
+- 2、[随处可见单一职责的函数](https://github.com/woai30231/vue-source-code-study-note/blob/master/article/2.md)
 
 
